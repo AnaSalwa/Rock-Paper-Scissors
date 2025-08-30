@@ -1,0 +1,47 @@
+#myH1 {
+    text-align: center; /* Centre le texte horizontalement */
+}
+/* body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Centre horizontalement */
+     /*  align-items: center;Centre verticalement
+  } */
+
+.image-button{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: none;
+    background-color: hsl(192, 85%, 44%);
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#result{
+    font-size: 2rem;
+    text-align: center;
+
+}
+
+#player-score{
+    font-size: 1rem;
+    text-align: center;
+    font-style: italic;
+}
+
+#computer-score{
+    font-size: 1rem;
+    text-align: center;
+    font-style: italic;
+}
+
+.myH3{
+    font-size: 1.5rem;
+    text-align: center;
+    font-style: italic;
+
+}
